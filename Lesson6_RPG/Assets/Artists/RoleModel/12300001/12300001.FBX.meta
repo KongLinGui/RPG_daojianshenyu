@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: af4d52f59561671409745170eafe7003
+timeCreated: 1451897897
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bip001
+    100004: body
+    100006: Chest
+    100008: Hair01
+    100010: Hair010
+    100012: Hair011
+    100014: Hair02
+    100016: Hair03
+    100018: Hair04
+    100020: Hair05
+    100022: Hair06
+    100024: Hair07
+    100026: Hair08
+    100028: Hair09
+    100030: Head
+    100032: Hips
+    100034: L Foot
+    100036: L In the leg
+    100038: L Lower Arm
+    100040: L Lower Arm01
+    100042: L Lower Leg
+    100044: L Shoulder
+    100046: L Shoulder01
+    100048: L Upper Arm
+    100050: L Upper Leg
+    100052: Neck
+    100054: R Foot
+    100056: R In the leg
+    100058: R Lower Arm
+    100060: R Lower Arm01
+    100062: R Lower Leg
+    100064: R Shoulder
+    100066: R Shoulder01
+    100068: R Upper Arm
+    100070: R Upper Leg
+    100072: Root
+    100074: Spine
+    400000: //RootNode
+    400002: Bip001
+    400004: body
+    400006: Chest
+    400008: Hair01
+    400010: Hair010
+    400012: Hair011
+    400014: Hair02
+    400016: Hair03
+    400018: Hair04
+    400020: Hair05
+    400022: Hair06
+    400024: Hair07
+    400026: Hair08
+    400028: Hair09
+    400030: Head
+    400032: Hips
+    400034: L Foot
+    400036: L In the leg
+    400038: L Lower Arm
+    400040: L Lower Arm01
+    400042: L Lower Leg
+    400044: L Shoulder
+    400046: L Shoulder01
+    400048: L Upper Arm
+    400050: L Upper Leg
+    400052: Neck
+    400054: R Foot
+    400056: R In the leg
+    400058: R Lower Arm
+    400060: R Lower Arm01
+    400062: R Lower Leg
+    400064: R Shoulder
+    400066: R Shoulder01
+    400068: R Upper Arm
+    400070: R Upper Leg
+    400072: Root
+    400074: Spine
+    4300000: body
+    9500000: //RootNode
+    13700000: body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

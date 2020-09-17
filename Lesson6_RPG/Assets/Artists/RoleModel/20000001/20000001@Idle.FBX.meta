@@ -1,0 +1,503 @@
+fileFormatVersion: 2
+guid: b502553108990e442b96c72c5385dc90
+timeCreated: 1451986327
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: B Hair01
+    100002: B Hair02
+    100004: B Hair03
+    100006: B Hair04
+    100008: B Hair05
+    100010: B Hair06
+    100012: B Hair07
+    100014: B Hair08
+    100016: B Hair09
+    100018: B Hair10
+    100020: B Skirt01
+    100022: B Skirt02
+    100024: B Skirt03
+    100026: Bone001
+    100028: Bone002
+    100030: Bone003
+    100032: Bone004
+    100034: Bone005
+    100036: Chest
+    100038: Head
+    100040: Hips
+    100042: L Finger0
+    100044: L Finger01
+    100046: L Finger1
+    100048: L Finger11
+    100050: L Foot
+    100052: L Hair001
+    100054: L Hair002
+    100056: L Hair003
+    100058: L Hair004
+    100060: L Hair005
+    100062: L Hair006
+    100064: L Hair01
+    100066: L Hair02
+    100068: L Hair03
+    100070: L Hair04
+    100072: L Hair05
+    100074: L Hair06
+    100076: L Hair07
+    100078: L Hair08
+    100080: L Hair09
+    100082: L Hair10
+    100084: L Hand
+    100086: L Lower Arm
+    100088: L Lower Leg
+    100090: L Shoulder
+    100092: L Skirt01
+    100094: L Skirt02
+    100096: L Skirt03
+    100098: L Skirt04
+    100100: L Skirt05
+    100102: L Skirt06
+    100104: L Toes
+    100106: L Upper Arm
+    100108: L Upper Leg
+    100110: L Weapon Anchor
+    100112: //RootNode
+    100114: Neck
+    100116: Pelvis
+    100118: R Finger0
+    100120: R Finger01
+    100122: R Finger1
+    100124: R Finger11
+    100126: R Foot
+    100128: R Hair001
+    100130: R Hair002
+    100132: R Hair003
+    100134: R Hair004
+    100136: R Hair005
+    100138: R Hair006
+    100140: R Hair01
+    100142: R Hair02
+    100144: R Hair03
+    100146: R Hair04
+    100148: R Hair05
+    100150: R Hair06
+    100152: R Hair07
+    100154: R Hair08
+    100156: R Hair09
+    100158: R Hair10
+    100160: R Hand
+    100162: R Lower Arm
+    100164: R Lower Leg
+    100166: R Shoulder
+    100168: R Skirt01
+    100170: R Skirt02
+    100172: R Skirt03
+    100174: R Skirt04
+    100176: R Skirt05
+    100178: R Skirt06
+    100180: R Toes
+    100182: R Upper Arm
+    100184: R Upper Leg
+    100186: R Weapon Anchor
+    100188: Spine
+    100190: T Hair01
+    100192: T Hair02
+    400000: B Hair01
+    400002: B Hair02
+    400004: B Hair03
+    400006: B Hair04
+    400008: B Hair05
+    400010: B Hair06
+    400012: B Hair07
+    400014: B Hair08
+    400016: B Hair09
+    400018: B Hair10
+    400020: B Skirt01
+    400022: B Skirt02
+    400024: B Skirt03
+    400026: Bone001
+    400028: Bone002
+    400030: Bone003
+    400032: Bone004
+    400034: Bone005
+    400036: Chest
+    400038: Head
+    400040: Hips
+    400042: L Finger0
+    400044: L Finger01
+    400046: L Finger1
+    400048: L Finger11
+    400050: L Foot
+    400052: L Hair001
+    400054: L Hair002
+    400056: L Hair003
+    400058: L Hair004
+    400060: L Hair005
+    400062: L Hair006
+    400064: L Hair01
+    400066: L Hair02
+    400068: L Hair03
+    400070: L Hair04
+    400072: L Hair05
+    400074: L Hair06
+    400076: L Hair07
+    400078: L Hair08
+    400080: L Hair09
+    400082: L Hair10
+    400084: L Hand
+    400086: L Lower Arm
+    400088: L Lower Leg
+    400090: L Shoulder
+    400092: L Skirt01
+    400094: L Skirt02
+    400096: L Skirt03
+    400098: L Skirt04
+    400100: L Skirt05
+    400102: L Skirt06
+    400104: L Toes
+    400106: L Upper Arm
+    400108: L Upper Leg
+    400110: L Weapon Anchor
+    400112: //RootNode
+    400114: Neck
+    400116: Pelvis
+    400118: R Finger0
+    400120: R Finger01
+    400122: R Finger1
+    400124: R Finger11
+    400126: R Foot
+    400128: R Hair001
+    400130: R Hair002
+    400132: R Hair003
+    400134: R Hair004
+    400136: R Hair005
+    400138: R Hair006
+    400140: R Hair01
+    400142: R Hair02
+    400144: R Hair03
+    400146: R Hair04
+    400148: R Hair05
+    400150: R Hair06
+    400152: R Hair07
+    400154: R Hair08
+    400156: R Hair09
+    400158: R Hair10
+    400160: R Hand
+    400162: R Lower Arm
+    400164: R Lower Leg
+    400166: R Shoulder
+    400168: R Skirt01
+    400170: R Skirt02
+    400172: R Skirt03
+    400174: R Skirt04
+    400176: R Skirt05
+    400178: R Skirt06
+    400180: R Toes
+    400182: R Upper Arm
+    400184: R Upper Leg
+    400186: R Weapon Anchor
+    400188: Spine
+    400190: T Hair01
+    400192: T Hair02
+    7400000: Idle
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hips
+        weight: 1
+      - path: Hips/L Weapon Anchor
+        weight: 1
+      - path: Hips/Pelvis
+        weight: 1
+      - path: Hips/Pelvis/B Skirt01
+        weight: 1
+      - path: Hips/Pelvis/B Skirt01/B Skirt02
+        weight: 1
+      - path: Hips/Pelvis/B Skirt01/B Skirt02/B Skirt03
+        weight: 1
+      - path: Hips/Pelvis/B Skirt01/B Skirt02/B Skirt03/Bone003
+        weight: 1
+      - path: Hips/Pelvis/L Skirt01
+        weight: 1
+      - path: Hips/Pelvis/L Skirt01/L Skirt02
+        weight: 1
+      - path: Hips/Pelvis/L Skirt01/L Skirt02/L Skirt03
+        weight: 1
+      - path: Hips/Pelvis/L Skirt01/L Skirt02/L Skirt03/Bone005
+        weight: 1
+      - path: Hips/Pelvis/L Skirt04
+        weight: 1
+      - path: Hips/Pelvis/L Skirt04/L Skirt05
+        weight: 1
+      - path: Hips/Pelvis/L Skirt04/L Skirt05/L Skirt06
+        weight: 1
+      - path: Hips/Pelvis/L Skirt04/L Skirt05/L Skirt06/Bone002
+        weight: 1
+      - path: Hips/Pelvis/R Skirt01
+        weight: 1
+      - path: Hips/Pelvis/R Skirt01/R Skirt02
+        weight: 1
+      - path: Hips/Pelvis/R Skirt01/R Skirt02/R Skirt03
+        weight: 1
+      - path: Hips/Pelvis/R Skirt01/R Skirt02/R Skirt03/Bone004
+        weight: 1
+      - path: Hips/Pelvis/R Skirt04
+        weight: 1
+      - path: Hips/Pelvis/R Skirt04/R Skirt05
+        weight: 1
+      - path: Hips/Pelvis/R Skirt04/R Skirt05/R Skirt06
+        weight: 1
+      - path: Hips/Pelvis/R Skirt04/R Skirt05/R Skirt06/Bone001
+        weight: 1
+      - path: Hips/Pelvis/Spine
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/B Hair01
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/B Hair01/B Hair02
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/B Hair01/B Hair02/B Hair03
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/B Hair01/B Hair02/B Hair03/B Hair04
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/B Hair01/B Hair02/B Hair03/B Hair04/B
+          Hair05
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/B Hair06
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/B Hair06/B Hair07
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/B Hair06/B Hair07/B Hair08
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/B Hair06/B Hair07/B Hair08/B Hair09
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/B Hair06/B Hair07/B Hair08/B Hair09/B
+          Hair10
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/L Hair001
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/L Hair001/L Hair002
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/L Hair001/L Hair002/L Hair003
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/L Hair001/L Hair002/L Hair003/L Hair004
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/L Hair001/L Hair002/L Hair003/L Hair004/L
+          Hair005
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/L Hair001/L Hair002/L Hair003/L Hair004/L
+          Hair005/L Hair006
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/L Hair01
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/L Hair01/L Hair02
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/L Hair01/L Hair02/L Hair03
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/L Hair01/L Hair02/L Hair03/L Hair04
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/L Hair05
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/L Hair05/L Hair06
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/L Hair07
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/L Hair07/L Hair08
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/L Hair07/L Hair08/L Hair09
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/L Hair07/L Hair08/L Hair09/L Hair10
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/R Hair001
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/R Hair001/R Hair002
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/R Hair001/R Hair002/R Hair003
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/R Hair001/R Hair002/R Hair003/R Hair004
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/R Hair001/R Hair002/R Hair003/R Hair004/R
+          Hair005
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/R Hair001/R Hair002/R Hair003/R Hair004/R
+          Hair005/R Hair006
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/R Hair01
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/R Hair01/R Hair02
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/R Hair01/R Hair02/R Hair03
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/R Hair01/R Hair02/R Hair03/R Hair04
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/R Hair05
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/R Hair05/R Hair06
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/R Hair07
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/R Hair07/R Hair08
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/R Hair07/R Hair08/R Hair09
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/R Hair07/R Hair08/R Hair09/R Hair10
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/T Hair01
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/Head/T Hair01/T Hair02
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/L Shoulder
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/L Shoulder/L Upper Arm
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/L Shoulder/L Upper Arm/L Lower Arm
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/L Shoulder/L Upper Arm/L Lower Arm/L Hand
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/L Shoulder/L Upper Arm/L Lower Arm/L Hand/L
+          Finger0
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/L Shoulder/L Upper Arm/L Lower Arm/L Hand/L
+          Finger0/L Finger01
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/L Shoulder/L Upper Arm/L Lower Arm/L Hand/L
+          Finger1
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/L Shoulder/L Upper Arm/L Lower Arm/L Hand/L
+          Finger1/L Finger11
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/R Shoulder
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/R Shoulder/R Upper Arm
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/R Shoulder/R Upper Arm/R Lower Arm
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/R Shoulder/R Upper Arm/R Lower Arm/R Hand
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/R Shoulder/R Upper Arm/R Lower Arm/R Hand/R
+          Finger0
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/R Shoulder/R Upper Arm/R Lower Arm/R Hand/R
+          Finger0/R Finger01
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/R Shoulder/R Upper Arm/R Lower Arm/R Hand/R
+          Finger1
+        weight: 1
+      - path: Hips/Pelvis/Spine/Chest/Neck/R Shoulder/R Upper Arm/R Lower Arm/R Hand/R
+          Finger1/R Finger11
+        weight: 1
+      - path: Hips/Pelvis/Spine/L Upper Leg
+        weight: 1
+      - path: Hips/Pelvis/Spine/L Upper Leg/L Lower Leg
+        weight: 1
+      - path: Hips/Pelvis/Spine/L Upper Leg/L Lower Leg/L Foot
+        weight: 1
+      - path: Hips/Pelvis/Spine/L Upper Leg/L Lower Leg/L Foot/L Toes
+        weight: 1
+      - path: Hips/Pelvis/Spine/R Upper Leg
+        weight: 1
+      - path: Hips/Pelvis/Spine/R Upper Leg/R Lower Leg
+        weight: 1
+      - path: Hips/Pelvis/Spine/R Upper Leg/R Lower Leg/R Foot
+        weight: 1
+      - path: Hips/Pelvis/Spine/R Upper Leg/R Lower Leg/R Foot/R Toes
+        weight: 1
+      - path: Hips/R Weapon Anchor
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

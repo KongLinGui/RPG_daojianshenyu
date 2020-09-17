@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 1c55c025ac592614b80ef0f8a45624cf
+timeCreated: 1450862261
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bip
+    100004: Hair01
+    100006: Head
+    100008: Hips
+    100010: L Ears
+    100012: L Foot
+    100014: L Hand
+    100016: L Lower Arm
+    100018: L Lower Leg
+    100020: L Shoulder
+    100022: L Upper Arm
+    100024: L Upper Leg
+    100026: Neck
+    100028: R Ears
+    100030: R Foot
+    100032: R Hand
+    100034: R Lower Arm
+    100036: R Lower Leg
+    100038: R Shoulder
+    100040: R Upper Arm
+    100042: R Upper Leg
+    100044: Root
+    100046: Spine
+    100048: Tail01
+    100050: Tail02
+    400000: //RootNode
+    400002: Bip
+    400004: Hair01
+    400006: Head
+    400008: Hips
+    400010: L Ears
+    400012: L Foot
+    400014: L Hand
+    400016: L Lower Arm
+    400018: L Lower Leg
+    400020: L Shoulder
+    400022: L Upper Arm
+    400024: L Upper Leg
+    400026: Neck
+    400028: R Ears
+    400030: R Foot
+    400032: R Hand
+    400034: R Lower Arm
+    400036: R Lower Leg
+    400038: R Shoulder
+    400040: R Upper Arm
+    400042: R Upper Leg
+    400044: Root
+    400046: Spine
+    400048: Tail01
+    400050: Tail02
+    7400000: Run
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Bip
+        weight: 1
+      - path: Root/Bip/Hips
+        weight: 1
+      - path: Root/Bip/Hips/Spine
+        weight: 1
+      - path: Root/Bip/Hips/Spine/L Upper Leg
+        weight: 1
+      - path: Root/Bip/Hips/Spine/L Upper Leg/L Lower Leg
+        weight: 1
+      - path: Root/Bip/Hips/Spine/L Upper Leg/L Lower Leg/L Foot
+        weight: 1
+      - path: Root/Bip/Hips/Spine/Neck
+        weight: 1
+      - path: Root/Bip/Hips/Spine/Neck/Head
+        weight: 1
+      - path: Root/Bip/Hips/Spine/Neck/Head/Hair01
+        weight: 1
+      - path: Root/Bip/Hips/Spine/Neck/Head/L Ears
+        weight: 1
+      - path: Root/Bip/Hips/Spine/Neck/Head/R Ears
+        weight: 1
+      - path: Root/Bip/Hips/Spine/Neck/L Shoulder
+        weight: 1
+      - path: Root/Bip/Hips/Spine/Neck/L Shoulder/L Upper Arm
+        weight: 1
+      - path: Root/Bip/Hips/Spine/Neck/L Shoulder/L Upper Arm/L Lower Arm
+        weight: 1
+      - path: Root/Bip/Hips/Spine/Neck/L Shoulder/L Upper Arm/L Lower Arm/L Hand
+        weight: 1
+      - path: Root/Bip/Hips/Spine/Neck/R Shoulder
+        weight: 1
+      - path: Root/Bip/Hips/Spine/Neck/R Shoulder/R Upper Arm
+        weight: 1
+      - path: Root/Bip/Hips/Spine/Neck/R Shoulder/R Upper Arm/R Lower Arm
+        weight: 1
+      - path: Root/Bip/Hips/Spine/Neck/R Shoulder/R Upper Arm/R Lower Arm/R Hand
+        weight: 1
+      - path: Root/Bip/Hips/Spine/R Upper Leg
+        weight: 1
+      - path: Root/Bip/Hips/Spine/R Upper Leg/R Lower Leg
+        weight: 1
+      - path: Root/Bip/Hips/Spine/R Upper Leg/R Lower Leg/R Foot
+        weight: 1
+      - path: Root/Bip/Hips/Tail01
+        weight: 1
+      - path: Root/Bip/Hips/Tail01/Tail02
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

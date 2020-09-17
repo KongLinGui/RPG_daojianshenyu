@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: d65e9f85bf5f6d7499b9f9a59cbf78ea
+timeCreated: 1451986327
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: B Hair01
+    100002: B Hair02
+    100004: B Hair03
+    100006: B Hair04
+    100008: B Hair05
+    100010: B Hair06
+    100012: B Hair07
+    100014: B Hair08
+    100016: B Hair09
+    100018: B Hair10
+    100020: B Skirt01
+    100022: B Skirt02
+    100024: B Skirt03
+    100026: Bone001
+    100028: Bone002
+    100030: Bone003
+    100032: Bone004
+    100034: Bone005
+    100036: Bone006
+    100038: Bone007
+    100040: Chest
+    100042: Head
+    100044: Hips
+    100046: L Finger0
+    100048: L Finger01
+    100050: L Finger1
+    100052: L Finger11
+    100054: L Foot
+    100056: L Hair001
+    100058: L Hair002
+    100060: L Hair003
+    100062: L Hair004
+    100064: L Hair005
+    100066: L Hair006
+    100068: L Hair01
+    100070: L Hair02
+    100072: L Hair03
+    100074: L Hair04
+    100076: L Hair05
+    100078: L Hair06
+    100080: L Hair07
+    100082: L Hair08
+    100084: L Hair09
+    100086: L Hair10
+    100088: L Hand
+    100090: L Lower Arm
+    100092: L Lower Leg
+    100094: L Shoulder
+    100096: L Skirt01
+    100098: L Skirt02
+    100100: L Skirt03
+    100102: L Skirt04
+    100104: L Skirt05
+    100106: L Skirt06
+    100108: L Toes
+    100110: L Upper Arm
+    100112: L Upper Leg
+    100114: L Weapon Anchor
+    100116: //RootNode
+    100118: Neck
+    100120: Pelvis
+    100122: R Finger0
+    100124: R Finger01
+    100126: R Finger1
+    100128: R Finger11
+    100130: R Foot
+    100132: R Hair001
+    100134: R Hair002
+    100136: R Hair003
+    100138: R Hair004
+    100140: R Hair005
+    100142: R Hair006
+    100144: R Hair01
+    100146: R Hair02
+    100148: R Hair03
+    100150: R Hair04
+    100152: R Hair05
+    100154: R Hair06
+    100156: R Hair07
+    100158: R Hair08
+    100160: R Hair09
+    100162: R Hair10
+    100164: R Hand
+    100166: R Lower Arm
+    100168: R Lower Leg
+    100170: R Shoulder
+    100172: R Skirt01
+    100174: R Skirt02
+    100176: R Skirt03
+    100178: R Skirt04
+    100180: R Skirt05
+    100182: R Skirt06
+    100184: R Toes
+    100186: R Upper Arm
+    100188: R Upper Leg
+    100190: R Weapon Anchor
+    100192: Spine
+    100194: T Hair01
+    100196: T Hair02
+    400000: B Hair01
+    400002: B Hair02
+    400004: B Hair03
+    400006: B Hair04
+    400008: B Hair05
+    400010: B Hair06
+    400012: B Hair07
+    400014: B Hair08
+    400016: B Hair09
+    400018: B Hair10
+    400020: B Skirt01
+    400022: B Skirt02
+    400024: B Skirt03
+    400026: Bone001
+    400028: Bone002
+    400030: Bone003
+    400032: Bone004
+    400034: Bone005
+    400036: Bone006
+    400038: Bone007
+    400040: Chest
+    400042: Head
+    400044: Hips
+    400046: L Finger0
+    400048: L Finger01
+    400050: L Finger1
+    400052: L Finger11
+    400054: L Foot
+    400056: L Hair001
+    400058: L Hair002
+    400060: L Hair003
+    400062: L Hair004
+    400064: L Hair005
+    400066: L Hair006
+    400068: L Hair01
+    400070: L Hair02
+    400072: L Hair03
+    400074: L Hair04
+    400076: L Hair05
+    400078: L Hair06
+    400080: L Hair07
+    400082: L Hair08
+    400084: L Hair09
+    400086: L Hair10
+    400088: L Hand
+    400090: L Lower Arm
+    400092: L Lower Leg
+    400094: L Shoulder
+    400096: L Skirt01
+    400098: L Skirt02
+    400100: L Skirt03
+    400102: L Skirt04
+    400104: L Skirt05
+    400106: L Skirt06
+    400108: L Toes
+    400110: L Upper Arm
+    400112: L Upper Leg
+    400114: L Weapon Anchor
+    400116: //RootNode
+    400118: Neck
+    400120: Pelvis
+    400122: R Finger0
+    400124: R Finger01
+    400126: R Finger1
+    400128: R Finger11
+    400130: R Foot
+    400132: R Hair001
+    400134: R Hair002
+    400136: R Hair003
+    400138: R Hair004
+    400140: R Hair005
+    400142: R Hair006
+    400144: R Hair01
+    400146: R Hair02
+    400148: R Hair03
+    400150: R Hair04
+    400152: R Hair05
+    400154: R Hair06
+    400156: R Hair07
+    400158: R Hair08
+    400160: R Hair09
+    400162: R Hair10
+    400164: R Hand
+    400166: R Lower Arm
+    400168: R Lower Leg
+    400170: R Shoulder
+    400172: R Skirt01
+    400174: R Skirt02
+    400176: R Skirt03
+    400178: R Skirt04
+    400180: R Skirt05
+    400182: R Skirt06
+    400184: R Toes
+    400186: R Upper Arm
+    400188: R Upper Leg
+    400190: R Weapon Anchor
+    400192: Spine
+    400194: T Hair01
+    400196: T Hair02
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

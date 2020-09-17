@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1011 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: enemy_hua
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Enemy-hua
+    m_Weight: 1
+  - m_Path: Hips
+    m_Weight: 1
+  - m_Path: Hips/Pelvis
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/Bip001 Head
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/Bip001 Head/Bone001
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/Bip001 Head/Bone001/Bone002
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/Bip001 Head/Bone001/Bone002/Bone003
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/Bip001 Head/Bone001(mirrored)
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/Bip001 Head/Bone001(mirrored)/Bone002(mirrored)
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/Bip001 Head/Bone001(mirrored)/Bone002(mirrored)/Bone003(mirrored)
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/Bip001 Head/Bone004
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/Bip001 Head/Bone004/Bone005
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/Bip001 Head/Bone004/Bone005/Bone006
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/Bip001 Head/Bone004(mirrored)
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/Bip001 Head/Bone004(mirrored)/Bone005(mirrored)
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/Bip001 Head/Bone004(mirrored)/Bone005(mirrored)/Bone006(mirrored)
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/Bip001 Head/Bone007
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/Bip001 Head/Bone007/Bone008
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/Bip001 Head/Bone007/Bone008/Bone009
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/Bip001 Head/Bone007(mirrored)
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/Bip001 Head/Bone007(mirrored)/Bone008(mirrored)
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/Bip001 Head/Bone007(mirrored)/Bone008(mirrored)/Bone009(mirrored)
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/Bip001 Head/Dummy003
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/L Shoulder
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/L Shoulder/L Upper Arm
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/L Shoulder/L Upper Arm/L Lower Arm
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/L Shoulder/L Upper Arm/L Lower Arm/L Hand
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/L Shoulder/L Upper Arm/L Lower Arm/L Hand/L
+      Finger0
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/R Shoulder
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/R Shoulder/R Upper Arm
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/R Shoulder/R Upper Arm/R Lower Arm
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/R Shoulder/R Upper Arm/R Lower Arm/R Hand
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/R Shoulder/R Upper Arm/R Lower Arm/R Hand/R
+      Finger0
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Dummy002
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/L Upper Leg
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/L Upper Leg/L Lower Leg
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/L Upper Leg/L Lower Leg/L Foot
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/L Upper Leg/L Lower Leg/L Foot/L Toe0
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/R Upper Leg
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/R Upper Leg/R Lower Leg
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/R Upper Leg/R Lower Leg/R Foot
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/R Upper Leg/R Lower Leg/R Foot/R Toe0
+    m_Weight: 1

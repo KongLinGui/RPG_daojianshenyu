@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1011 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: lifafullbody
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Hips
+    m_Weight: 1
+  - m_Path: Hips/L Weapon Anchor
+    m_Weight: 1
+  - m_Path: Hips/Pelvis
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/B Skirt01
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/B Skirt01/B Skirt02
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/B Skirt01/B Skirt02/B Skirt03
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/L Skirt01
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/L Skirt01/L Skirt02
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/L Skirt01/L Skirt02/L Skirt03
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/L Skirt04
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/L Skirt04/L Skirt05
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/L Skirt04/L Skirt05/L Skirt06
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/R Skirt01
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/R Skirt01/R Skirt02
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/R Skirt01/R Skirt02/R Skirt03
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/R Skirt04
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/R Skirt04/R Skirt05
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/R Skirt04/R Skirt05/R Skirt06
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/Head
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/Head/B Hair06
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/Head/B Hair06/B Hair07
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/Head/B Hair06/B Hair07/B Hair08
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/Head/B Hair06/B Hair07/B Hair08/B Hair09
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/Head/B Hair06/B Hair07/B Hair08/B Hair09/B
+      Hair10
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/Head/L Hair05
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/Head/L Hair05/L Hair06
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/Head/player_zhiye_hair
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/Head/R Hair05
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/Head/R Hair05/R Hair06
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/L Shoulder
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/L Shoulder/L Upper Arm
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/L Shoulder/L Upper Arm/L Lower Arm
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/L Shoulder/L Upper Arm/L Lower Arm/L Hand
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/L Shoulder/L Upper Arm/L Lower Arm/L Hand/L
+      Finger0
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/L Shoulder/L Upper Arm/L Lower Arm/L Hand/L
+      Finger0/L Finger01
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/L Shoulder/L Upper Arm/L Lower Arm/L Hand/L
+      Finger1
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/L Shoulder/L Upper Arm/L Lower Arm/L Hand/L
+      Finger1/L Finger11
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/player_zhiye_face
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/R Shoulder
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/R Shoulder/R Upper Arm
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/R Shoulder/R Upper Arm/R Lower Arm
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/R Shoulder/R Upper Arm/R Lower Arm/R Hand
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/R Shoulder/R Upper Arm/R Lower Arm/R Hand/R
+      Finger0
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/R Shoulder/R Upper Arm/R Lower Arm/R Hand/R
+      Finger0/R Finger01
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/R Shoulder/R Upper Arm/R Lower Arm/R Hand/R
+      Finger1
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/Chest/Neck/R Shoulder/R Upper Arm/R Lower Arm/R Hand/R
+      Finger1/R Finger11
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/L Upper Leg
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/L Upper Leg/L Lower Leg
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/L Upper Leg/L Lower Leg/L Foot
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/L Upper Leg/L Lower Leg/L Foot/L Toes
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/R Upper Leg
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/R Upper Leg/R Lower Leg
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/R Upper Leg/R Lower Leg/R Foot
+    m_Weight: 1
+  - m_Path: Hips/Pelvis/Spine/R Upper Leg/R Lower Leg/R Foot/R Toes
+    m_Weight: 1
+  - m_Path: Hips/R Weapon Anchor
+    m_Weight: 1
+  - m_Path: Object01
+    m_Weight: 1
+  - m_Path: player_zhiye_body
+    m_Weight: 1
+  - m_Path: player_zhiye_weapon
+    m_Weight: 1

@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 1417b45861c630e429559b701774177d
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bone001
+    100002: Bone002
+    100004: Bone003
+    100006: Bone004
+    100008: Bone004(mirrored)
+    100010: Bone005
+    100012: Bone005(mirrored)
+    100014: Bone006
+    100016: Bone006(mirrored)
+    100018: Bone007
+    100020: Bone007(mirrored)
+    100022: Bone008
+    100024: Bone008(mirrored)
+    100026: Bone009
+    100028: Bone009(mirrored)
+    100030: Bone010
+    100032: Bone010(mirrored)
+    100034: Bone011
+    100036: Bone011(mirrored)
+    100038: Bone012
+    100040: Bone012(mirrored)
+    100042: Bone013
+    100044: Bone013(mirrored)
+    100046: Bone014
+    100048: Bone014(mirrored)
+    100050: Bone015
+    100052: Bone015(mirrored)
+    100054: //RootNode
+    100056: Dummy001
+    100058: Dummy002
+    100060: Dummy003
+    100062: Dummy004
+    100064: Dummy005
+    100066: Dummy006
+    100068: Dummy007
+    100070: Enemy-jiachong
+    100072: IK Chain001
+    100074: IK Chain002
+    100076: IK Chain003
+    100078: IK Chain004
+    100080: IK Chain005
+    100082: IK Chain006
+    100084: IK Chain007
+    100086: IK Chain008
+    400000: Bone001
+    400002: Bone002
+    400004: Bone003
+    400006: Bone004
+    400008: Bone004(mirrored)
+    400010: Bone005
+    400012: Bone005(mirrored)
+    400014: Bone006
+    400016: Bone006(mirrored)
+    400018: Bone007
+    400020: Bone007(mirrored)
+    400022: Bone008
+    400024: Bone008(mirrored)
+    400026: Bone009
+    400028: Bone009(mirrored)
+    400030: Bone010
+    400032: Bone010(mirrored)
+    400034: Bone011
+    400036: Bone011(mirrored)
+    400038: Bone012
+    400040: Bone012(mirrored)
+    400042: Bone013
+    400044: Bone013(mirrored)
+    400046: Bone014
+    400048: Bone014(mirrored)
+    400050: Bone015
+    400052: Bone015(mirrored)
+    400054: //RootNode
+    400056: Dummy001
+    400058: Dummy002
+    400060: Dummy003
+    400062: Dummy004
+    400064: Dummy005
+    400066: Dummy006
+    400068: Dummy007
+    400070: Enemy-jiachong
+    400072: IK Chain001
+    400074: IK Chain002
+    400076: IK Chain003
+    400078: IK Chain004
+    400080: IK Chain005
+    400082: IK Chain006
+    400084: IK Chain007
+    400086: IK Chain008
+    4300000: Enemy-jiachong
+    9500000: //RootNode
+    13700000: Enemy-jiachong
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0250000004
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

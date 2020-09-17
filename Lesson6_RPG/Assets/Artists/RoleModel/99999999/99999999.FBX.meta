@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 3fb1e0e46aa5fd348b04d988cf300cfc
+timeCreated: 1450158686
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: B Hair01
+    100004: B Hair02
+    100006: B Hair03
+    100008: B Skirt01
+    100010: B Skirt02
+    100012: B Skirt03
+    100014: B Skirt04
+    100016: Bear01
+    100018: Bear02
+    100020: Bip
+    100022: Body
+    100024: Chest
+    100026: F Skirt01
+    100028: F Skirt02
+    100030: F Skirt03
+    100032: F Skirt04
+    100034: Head
+    100036: Hips
+    100038: L Finger0
+    100040: L Finger01
+    100042: L Finger1
+    100044: L Finger11
+    100046: L Foot
+    100048: L Hair01
+    100050: L Hair02
+    100052: L Hand
+    100054: L Lower Arm
+    100056: L Lower Leg
+    100058: L Shoulder
+    100060: L Skirt01
+    100062: L Skirt02
+    100064: L Skirt03
+    100066: L Skirt04
+    100068: L Upper Arm
+    100070: L Upper Leg
+    100072: Neck
+    100074: R Finger0
+    100076: R Finger01
+    100078: R Finger1
+    100080: R Finger11
+    100082: R Foot
+    100084: R Hair01
+    100086: R Hair02
+    100088: R Hand
+    100090: R Lower Arm
+    100092: R Lower Leg
+    100094: R Shoulder
+    100096: R Skirt01
+    100098: R Skirt02
+    100100: R Skirt03
+    100102: R Skirt04
+    100104: R Upper Arm
+    100106: R Upper Leg
+    100108: Spine
+    400000: //RootNode
+    400002: B Hair01
+    400004: B Hair02
+    400006: B Hair03
+    400008: B Skirt01
+    400010: B Skirt02
+    400012: B Skirt03
+    400014: B Skirt04
+    400016: Bear01
+    400018: Bear02
+    400020: Bip
+    400022: Body
+    400024: Chest
+    400026: F Skirt01
+    400028: F Skirt02
+    400030: F Skirt03
+    400032: F Skirt04
+    400034: Head
+    400036: Hips
+    400038: L Finger0
+    400040: L Finger01
+    400042: L Finger1
+    400044: L Finger11
+    400046: L Foot
+    400048: L Hair01
+    400050: L Hair02
+    400052: L Hand
+    400054: L Lower Arm
+    400056: L Lower Leg
+    400058: L Shoulder
+    400060: L Skirt01
+    400062: L Skirt02
+    400064: L Skirt03
+    400066: L Skirt04
+    400068: L Upper Arm
+    400070: L Upper Leg
+    400072: Neck
+    400074: R Finger0
+    400076: R Finger01
+    400078: R Finger1
+    400080: R Finger11
+    400082: R Foot
+    400084: R Hair01
+    400086: R Hair02
+    400088: R Hand
+    400090: R Lower Arm
+    400092: R Lower Leg
+    400094: R Shoulder
+    400096: R Skirt01
+    400098: R Skirt02
+    400100: R Skirt03
+    400102: R Skirt04
+    400104: R Upper Arm
+    400106: R Upper Leg
+    400108: Spine
+    4300000: Body
+    9500000: //RootNode
+    13700000: Body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 180
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

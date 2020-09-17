@@ -1,0 +1,50 @@
+D:\VR_2_WPH\VS\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\bin\Debug\Lesson6_RPG_Server_wph.exe.config
+D:\VR_2_WPH\VS\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\bin\Debug\Lesson6_RPG_Server_wph.exe
+D:\VR_2_WPH\VS\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\bin\Debug\Lesson6_RPG_Server_wph.pdb
+D:\VR_2_WPH\VS\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\bin\Debug\Newtonsoft.Json.dll
+D:\VR_2_WPH\VS\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\obj\Debug\Lesson6_RPG_Server_wph.csprojResolveAssemblyReference.cache
+D:\VR_2_WPH\VS\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\obj\Debug\Lesson6_RPG_Server_wph.exe
+D:\VR_2_WPH\VS\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\obj\Debug\Lesson6_RPG_Server_wph.pdb
+G:\BaiduNetdiskDownload\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\bin\Debug\Lesson6_RPG_Server_wph.exe.config
+G:\BaiduNetdiskDownload\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\obj\Debug\Lesson6_RPG_Server_wph.exe
+G:\BaiduNetdiskDownload\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\obj\Debug\Lesson6_RPG_Server_wph.pdb
+G:\BaiduNetdiskDownload\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\bin\Debug\Lesson6_RPG_Server_wph.exe
+G:\BaiduNetdiskDownload\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\bin\Debug\Lesson6_RPG_Server_wph.pdb
+G:\BaiduNetdiskDownload\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\obj\Debug\Lesson6_RPG_Server_wph.csprojResolveAssemblyReference.cache
+F:\UnityProject(5.6)\Build\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\bin\Debug\Lesson6_RPG_Server_wph.exe.config
+F:\UnityProject(5.6)\Build\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\obj\Debug\Lesson6_RPG_Server_wph.exe
+F:\UnityProject(5.6)\Build\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\obj\Debug\Lesson6_RPG_Server_wph.pdb
+F:\UnityProject(5.6)\Build\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\bin\Debug\Lesson6_RPG_Server_wph.exe
+F:\UnityProject(5.6)\Build\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\bin\Debug\Lesson6_RPG_Server_wph.pdb
+F:\UnityProject(5.6)\Build\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\obj\Debug\Lesson6_RPG_Server_wph.csprojResolveAssemblyReference.cache
+F:\Other\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\bin\Debug\Lesson6_RPG_Server_wph.exe.config
+F:\Other\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\obj\Debug\Lesson6_RPG_Server_wph.exe
+F:\Other\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\obj\Debug\Lesson6_RPG_Server_wph.pdb
+F:\Other\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\bin\Debug\Lesson6_RPG_Server_wph.exe
+F:\Other\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\bin\Debug\Lesson6_RPG_Server_wph.pdb
+F:\Other\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\obj\Debug\Lesson6_RPG_Server_wph.csprojResolveAssemblyReference.cache
+G:\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\bin\Debug\Lesson6_RPG_Server_wph.exe.config
+G:\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\obj\Debug\Lesson6_RPG_Server_wph.exe
+G:\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\obj\Debug\Lesson6_RPG_Server_wph.pdb
+G:\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\bin\Debug\Lesson6_RPG_Server_wph.exe
+G:\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\bin\Debug\Lesson6_RPG_Server_wph.pdb
+G:\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\bin\Debug\Newtonsoft.Json.dll
+G:\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\obj\Debug\Lesson6_RPG_Server_wph.csprojResolveAssemblyReference.cache
+F:\WPH_SVN\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\bin\Debug\Lesson6_RPG_Server_wph.exe.config
+F:\WPH_SVN\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\obj\Debug\Lesson6_RPG_Server_wph.exe
+F:\WPH_SVN\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\obj\Debug\Lesson6_RPG_Server_wph.pdb
+F:\WPH_SVN\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\bin\Debug\Lesson6_RPG_Server_wph.exe
+F:\WPH_SVN\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\bin\Debug\Lesson6_RPG_Server_wph.pdb
+F:\WPH_SVN\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\obj\Debug\Lesson6_RPG_Server_wph.csprojResolveAssemblyReference.cache
+E:\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\bin\Debug\Lesson6_RPG_Server_wph.exe.config
+E:\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\obj\Debug\Lesson6_RPG_Server_wph.exe
+E:\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\obj\Debug\Lesson6_RPG_Server_wph.pdb
+E:\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\bin\Debug\Lesson6_RPG_Server_wph.exe
+E:\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\bin\Debug\Lesson6_RPG_Server_wph.pdb
+E:\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\obj\Debug\Lesson6_RPG_Server_wph.csprojResolveAssemblyReference.cache
+E:\Unity wph\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\bin\Debug\Lesson6_RPG_Server_wph.exe.config
+E:\Unity wph\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\obj\Debug\Lesson6_RPG_Server_wph.exe
+E:\Unity wph\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\obj\Debug\Lesson6_RPG_Server_wph.pdb
+E:\Unity wph\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\bin\Debug\Lesson6_RPG_Server_wph.exe
+E:\Unity wph\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\bin\Debug\Lesson6_RPG_Server_wph.pdb
+E:\Unity wph\RPG_daojianshenyu\Lesson6_RPG_Server_wph\Lesson6_RPG_Server_wph\obj\Debug\Lesson6_RPG_Server_wph.csprojResolveAssemblyReference.cache

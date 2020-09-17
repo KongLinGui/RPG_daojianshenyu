@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: 17e7bd0e778381c44ad29c2232b93a44
+timeCreated: 1450088497
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: B Hair01
+    100002: B Hair02
+    100004: B Hair03
+    100006: B Skirt01
+    100008: B Skirt02
+    100010: B Skirt03
+    100012: B Skirt04
+    100014: Bear01
+    100016: Bear02
+    100018: Bip
+    100020: Chest
+    100022: F Skirt01
+    100024: F Skirt02
+    100026: F Skirt03
+    100028: F Skirt04
+    100030: //RootNode
+    100032: Head
+    100034: Hips
+    100036: L Finger0
+    100038: L Finger01
+    100040: L Finger1
+    100042: L Finger11
+    100044: L Foot
+    100046: L Hair01
+    100048: L Hair02
+    100050: L Hand
+    100052: L Lower Arm
+    100054: L Lower Leg
+    100056: L Shoulder
+    100058: L Skirt01
+    100060: L Skirt02
+    100062: L Skirt03
+    100064: L Skirt04
+    100066: L Upper Arm
+    100068: L Upper Leg
+    100070: Neck
+    100072: R Finger0
+    100074: R Finger01
+    100076: R Finger1
+    100078: R Finger11
+    100080: R Foot
+    100082: R Hair01
+    100084: R Hair02
+    100086: R Hand
+    100088: R Lower Arm
+    100090: R Lower Leg
+    100092: R Shoulder
+    100094: R Skirt01
+    100096: R Skirt02
+    100098: R Skirt03
+    100100: R Skirt04
+    100102: R Upper Arm
+    100104: R Upper Leg
+    100106: Spine
+    400000: B Hair01
+    400002: B Hair02
+    400004: B Hair03
+    400006: B Skirt01
+    400008: B Skirt02
+    400010: B Skirt03
+    400012: B Skirt04
+    400014: Bear01
+    400016: Bear02
+    400018: Bip
+    400020: Chest
+    400022: F Skirt01
+    400024: F Skirt02
+    400026: F Skirt03
+    400028: F Skirt04
+    400030: //RootNode
+    400032: Head
+    400034: Hips
+    400036: L Finger0
+    400038: L Finger01
+    400040: L Finger1
+    400042: L Finger11
+    400044: L Foot
+    400046: L Hair01
+    400048: L Hair02
+    400050: L Hand
+    400052: L Lower Arm
+    400054: L Lower Leg
+    400056: L Shoulder
+    400058: L Skirt01
+    400060: L Skirt02
+    400062: L Skirt03
+    400064: L Skirt04
+    400066: L Upper Arm
+    400068: L Upper Leg
+    400070: Neck
+    400072: R Finger0
+    400074: R Finger01
+    400076: R Finger1
+    400078: R Finger11
+    400080: R Foot
+    400082: R Hair01
+    400084: R Hair02
+    400086: R Hand
+    400088: R Lower Arm
+    400090: R Lower Leg
+    400092: R Shoulder
+    400094: R Skirt01
+    400096: R Skirt02
+    400098: R Skirt03
+    400100: R Skirt04
+    400102: R Upper Arm
+    400104: R Upper Leg
+    400106: Spine
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton:
+    - name: 99999999(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bip
+      position: {x: 0, y: 0.6870834, z: -0.02658152}
+      rotation: {x: -0.50000036, y: 0.49999964, z: 0.49999964, w: 0.50000036}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: Hips
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.49999964, y: 0.50000036, z: 0.49999964, w: 0.50000036}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: B Skirt01
+      position: {x: -0.1137474, y: -0.09413788, z: 0.0000005340575}
+      rotation: {x: 0.00000020777019, y: 0.0000015102097, z: 0.9571615, w: 0.28955463}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: B Skirt02
+      position: {x: -0.15766586, y: 0, z: 0.000000023101492}
+      rotation: {x: 0.00000006541041, y: -0.00000016325605, z: 0.054380726, w: 0.99852026}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: B Skirt03
+      position: {x: -0.10016876, y: 0.000000076293944, z: -9.094947e-15}
+      rotation: {x: -0.0000004897407, y: 0.00000021064473, z: 0.05742103, w: 0.9983501}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: B Skirt04
+      position: {x: -0.11862789, y: 0.000000038146972, z: 1.4551915e-13}
+      rotation: {x: -0.0000021697374, y: -0.00000029659336, z: 0.15518545, w: 0.98788536}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Spine
+      position: {x: -0.06100876, y: 0.010028601, z: 0.000000056827993}
+      rotation: {x: -0.0000020817758, y: 0.00000069497924, z: -0.0022800483, w: 0.99999744}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: L Upper Leg
+      position: {x: 0.061053846, y: -0.009750483, z: 0.079515606}
+      rotation: {x: 0.021536442, y: 0.99634695, z: -0.082590126, w: -0.0027865116}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: L Lower Leg
+      position: {x: -0.27098635, y: 0, z: 0}
+      rotation: {x: 4.841942e-10, y: 9.368619e-10, z: 0.011316417, w: 0.999936}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L Foot
+      position: {x: -0.31227255, y: 0, z: 0}
+      rotation: {x: -0.06537677, y: -0.0026464108, z: -0.035040468, w: 0.99724174}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+      transformModified: 1
+    - name: R Upper Leg
+      position: {x: 0.061053846, y: -0.009750039, z: -0.07951563}
+      rotation: {x: 0.021536458, y: 0.9963468, z: 0.08259288, w: 0.0027863649}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R Lower Leg
+      position: {x: -0.27098644, y: 0, z: 0.0000000047683715}
+      rotation: {x: -0.0000000062807546, y: -5.3677124e-10, z: 0.011316421, w: 0.999936}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: R Foot
+      position: {x: -0.3122726, y: 0, z: 0}
+      rotation: {x: 0.06537678, y: 0.002646324, z: -0.03504048, w: 0.99724174}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: Chest
+      position: {x: -0.11267227, y: -0.00013004779, z: -3.6070333e-10}
+      rotation: {x: -3.144579e-14, y: -0.00000019685112, z: 0.07097314, w: 0.99747825}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Neck
+      position: {x: -0.17294525, y: -0.020511484, z: -0.00000002758592}
+      rotation: {x: -1.3450345e-14, y: 0.00000051078734, z: -0.18416038, w: 0.9828962}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: Head
+      position: {x: -0.040515136, y: 0, z: 7.2759575e-14}
+      rotation: {x: -2.6677122e-13, y: -0.00000028452737, z: 0.10258483, w: 0.9947243}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: L Hair01
+      position: {x: -0.1987886, y: -0.030532407, z: 0.21600944}
+      rotation: {x: 0.0031173106, y: 0.7071006, z: 0.7067484, w: -0.022487404}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: L Hair02
+      position: {x: -0.15863135, y: -0.0000010681152, z: 0.000000009536743}
+      rotation: {x: -0.0000014305057, y: 0.000000004075858, z: -0.0028492508, w: 0.99999595}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: B Hair01
+      position: {x: -0.19771133, y: -0.2083873, z: -0.00000038146968}
+      rotation: {x: 0.038908005, y: 0.9992428, z: -0.0000013539874, w: -0.000000052720853}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: B Hair02
+      position: {x: -0.24343193, y: -0.0000012969971, z: -5.061156e-10}
+      rotation: {x: -0.00000193135, y: -0.000000070371705, z: -0.12518157, w: 0.99213386}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: B Hair03
+      position: {x: -0.14573638, y: -0.0000012874603, z: 2.910383e-13}
+      rotation: {x: 3.660502e-15, y: -1.4183473e-14, z: 0.007592122, w: 0.9999712}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R Hair01
+      position: {x: -0.19878875, y: -0.030531816, z: -0.21469505}
+      rotation: {x: -0.02248726, y: 0.7067475, z: 0.7071016, w: 0.003117653}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: R Hair02
+      position: {x: -0.15863135, y: 0.0000011062622, z: -0.0000000047683715}
+      rotation: {x: 0.00000066913844, y: 0.0000000019064483, z: 0.002849103, w: 0.99999595}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: L Shoulder
+      position: {x: 0.046296768, y: -0.0045187757, z: 0.03335285}
+      rotation: {x: 0.6949607, y: 0.1304978, z: -0.6949607, w: 0.1304978}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L Upper Arm
+      position: {x: -0.06555032, y: 0, z: 0}
+      rotation: {x: -0.14750008, y: -0.022552995, z: -0.0070546404, w: 0.9887798}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L Lower Arm
+      position: {x: -0.18276633, y: 0, z: 0}
+      rotation: {x: -0.0030054348, y: 0.016811501, z: 0.045247324, w: 0.9988299}
+      scale: {x: 0.99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: L Hand
+      position: {x: -0.14034618, y: 0, z: 0}
+      rotation: {x: -0.5833497, y: 0.040234253, z: 0.020684043, w: 0.81096023}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L Finger0
+      position: {x: -0.051973723, y: 0.03750633, z: -0.054503545}
+      rotation: {x: 0.77671087, y: -0.10186746, z: -0.006159329, w: 0.62153476}
+      scale: {x: 1, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: L Finger01
+      position: {x: -0.02602951, y: -0.000000009536743, z: 0}
+      rotation: {x: 0.025415225, y: -0.0008055412, z: -0.03167024, w: 0.9991749}
+      scale: {x: 1, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: L Finger1
+      position: {x: -0.09744028, y: 0, z: -0.000000009536743}
+      rotation: {x: 0.00066366175, y: 0.027837668, z: -0.03807502, w: 0.9988868}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: L Finger11
+      position: {x: -0.04125086, y: 0, z: 0.000000009536743}
+      rotation: {x: -0.0000000012972067, y: -0.0000000073367845, z: -0.17410813, w: 0.98472655}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R Shoulder
+      position: {x: 0.046296768, y: -0.0045186044, z: -0.033352934}
+      rotation: {x: 0.6949607, y: 0.1304978, z: 0.6949607, w: -0.1304978}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R Upper Arm
+      position: {x: -0.0655503, y: -0.0000000047683715, z: 0}
+      rotation: {x: 0.14750081, y: 0.022555705, z: -0.007053297, w: 0.98877954}
+      scale: {x: 1, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: R Lower Arm
+      position: {x: -0.18276633, y: 0, z: 0}
+      rotation: {x: 0.0030054443, y: -0.016811527, z: 0.04524728, w: 0.9988299}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: R Hand
+      position: {x: -0.14034614, y: 0, z: 0}
+      rotation: {x: 0.58334965, y: -0.040234253, z: 0.020684043, w: 0.8109603}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: R Finger0
+      position: {x: -0.051973723, y: 0.037506256, z: 0.054503545}
+      rotation: {x: -0.7767109, y: 0.101865806, z: -0.0061599137, w: 0.62153476}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+      transformModified: 1
+    - name: R Finger01
+      position: {x: -0.02602951, y: -0.000000019073486, z: 0}
+      rotation: {x: -0.025415234, y: 0.0008055713, z: -0.031670243, w: 0.9991749}
+      scale: {x: 1.0000001, y: 1, z: 1}
+      transformModified: 1
+    - name: R Finger1
+      position: {x: -0.097440295, y: 0, z: 0.000000009536743}
+      rotation: {x: -0.000663661, y: -0.027837653, z: -0.03807501, w: 0.9988868}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: R Finger11
+      position: {x: -0.041250877, y: 0, z: -0.000000009536743}
+      rotation: {x: 0.0000000012972069, y: 0.0000000073367845, z: -0.17410816, w: 0.98472655}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: Bear01
+      position: {x: -0.094153896, y: -0.07864192, z: -0.000000076293944}
+      rotation: {x: 0.57342845, y: 0.81925565, z: 0.0000005485682, w: -0.0000004441888}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: Bear02
+      position: {x: -0.13161327, y: -0.000000076293944, z: -0.0000000108285345}
+      rotation: {x: 0.000000006385229, y: -0.000000041584176, z: 0.058698997, w: 0.99827576}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L Skirt01
+      position: {x: -0.11925735, y: -0.0040161917, z: 0.087146506}
+      rotation: {x: -0.20482719, y: -0.67094785, z: 0.6811414, w: -0.20957398}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L Skirt02
+      position: {x: -0.14458694, y: 0, z: 0}
+      rotation: {x: 0.0010262614, y: 0.015898487, z: -0.06474927, w: 0.9977744}
+      scale: {x: 1, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: L Skirt03
+      position: {x: -0.099947505, y: 0, z: -0.0000000047683715}
+      rotation: {x: 0.0067846635, y: 0.013978816, z: -0.08220617, w: 0.99649423}
+      scale: {x: 0.99999994, y: 0.9999998, z: 1}
+      transformModified: 1
+    - name: L Skirt04
+      position: {x: -0.11108314, y: 0.000000076293944, z: 0.000000028610229}
+      rotation: {x: -0.004672564, y: -0.016667956, z: -0.02522407, w: 0.9995319}
+      scale: {x: 0.9999999, y: 1, z: 1}
+      transformModified: 1
+    - name: F Skirt01
+      position: {x: -0.101007305, y: 0.08952395, z: 7.2759575e-14}
+      rotation: {x: -0.21676953, y: 0.9762228, z: -0.0000012438272, w: -0.0000010004492}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: F Skirt02
+      position: {x: -0.12877917, y: 0, z: 0.000000018868963}
+      rotation: {x: 0.0000000643792, y: -0.00000016366546, z: 0.048080463, w: 0.9988435}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: F Skirt03
+      position: {x: -0.09757069, y: 0.000000038146972, z: -3.6379787e-14}
+      rotation: {x: -0.00000048664003, y: 0.00000021771237, z: 0.042962436, w: 0.9990767}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: F Skirt04
+      position: {x: -0.12661704, y: 0, z: 0}
+      rotation: {x: -0.0000014738862, y: -0.000000053882367, z: 0.06613522, w: 0.9978107}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R Skirt01
+      position: {x: -0.11925766, y: -0.0040166737, z: -0.08741501}
+      rotation: {x: -0.20957422, y: 0.6811392, z: -0.6709496, w: -0.20482858}
+      scale: {x: 1, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: R Skirt02
+      position: {x: -0.14458683, y: 0.000000076293944, z: 0.000000076293944}
+      rotation: {x: -0.0010261725, y: 0.015898488, z: 0.06474918, w: 0.9977744}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: R Skirt03
+      position: {x: -0.099947505, y: -0.000000038146972, z: -0.000000038146972}
+      rotation: {x: -0.006775386, y: 0.013981805, z: 0.08282961, w: 0.9964426}
+      scale: {x: 0.9999999, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: R Skirt04
+      position: {x: -0.11103618, y: -0.000000076293944, z: -0.000000076293944}
+      rotation: {x: 0.0046041487, y: -0.01671123, z: 0.02960564, w: 0.99941134}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.9999998}
+      transformModified: 1
+    - name: Body
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: -0.00000004214685, z: -0.00000004214685, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
